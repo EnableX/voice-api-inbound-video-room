@@ -1,12 +1,18 @@
-# **Basic Client Examples to demonstrate Inbound Calls using Enablex Voice APIs. **
-This example contains instructions how users can initiate Inbound Calls.
+# EnableX Programmable Voice API: Inbound Calls Client Examples and Setup Guide
 
+Explore Basic Client Examples for showcasing Inbound Calls functionality using the Enablex Programmable Voice APIs. 
+
+Prerequisites: 
+Enablex Application Credentials: Ensure you have your APP ID and APP KEY ready. 
+Hosting Environment: You'll require a hosting environment, which can be either cloud-based or on a local machine. 
+Local Machine Hosting: If opting for local hosting, make sure to install https://ngrok.com/for seamless tunneling capabilities. 
+
+These instructions will guide you on initiating Inbound Calls, enabling you to harness the power of Enablex Programmable Voice APIs effectively. 
 
 ## Pre-requisite
 - You will need Enablex Application credentials, APP ID and APP KEY.
 - You will need a place for hosting this application either cloud or local machine.
 - If hosting on local machine, you need to install ngrok from https://ngrok.com/
-
 
 ## Installation
 - `git clone https://github.com/EnableX/voice-api-inbound-video-room.git`
